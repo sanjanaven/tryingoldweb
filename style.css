@@ -1,0 +1,57 @@
+/* Main body */
+body{
+    text-align: center;
+    font-family: arial;
+    background-color: #ebedff;
+}
+
+ul {
+    display:table;
+    margin:0 auto;
+    text-align: right;
+}
+
+/* For image */
+img {
+    width: 30%;
+    height: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+/* Beach image */
+#stock {
+    width: 45%;
+    height: 45%;
+}
+
+p {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h2 {
+    margin-top: 4%;
+}
+
+h1 {
+    margin-top: 2%;
+}
+
+/* Box with my interests */
+#interest-box {
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    box-shadow: 0 10px 20px rgba(0,0,255,0.3), 0 6px 6px rgba(192,192,192,0.3);
+}
+
+summary {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* Return back */
+#get-back {
+    margin-top: 20px;
+}
